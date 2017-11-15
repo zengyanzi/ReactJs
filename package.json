@@ -19,6 +19,7 @@
     "react": "^15.3.2",
     "react-dom": "^15.6.1",
     "react-mixin": "^2.0.2",
+    "react-pull-to-refresh": "^1.1.1",
     "react-responsive": "^3.0.0",
     "react-router": "^2.8.1",
     "style-loader": "^0.13.2",
